@@ -1,0 +1,4 @@
+index,username,items,quests
+1,Poppy,"[""glasses""]","{""Missing Glasses"": ""in_progress"", ""Collect the Children"": ""not_started"", ""Barter with the Baker"": ""not_started""}"
+2,Joe,[],"{""Missing Glasses"": ""not_started"", ""Collect the Children"": ""not_started"", ""Barter with the Baker"": ""not_started""}"
+3,Bella,[],"{""Missing Glasses"": ""completed"", ""Collect the Children"": ""not_started"", ""Barter with the Baker"": ""not_started""}"
